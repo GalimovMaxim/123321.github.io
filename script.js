@@ -10,9 +10,7 @@ function fun3() {
     alert("Здесь представлены события на этот празднычный день.");
     text3 = document.querySelector("#info")
     text3.innerHTML = 'День Победы. Праздник победы Красной армии и советского народа над нацистской Германией в Великой Отечественной войне 1941—1945 годов.'
-    img=document.querySelector("#photo")
-    img.style.src="Kiprensky_Pushkin.jpg"
-
+  
 
 }
 
